@@ -11,5 +11,6 @@ Here is a list of love2d games and apps that work on the R36S. Simply download t
 | Step by Step          |                | [https://shinutoki.itch.io/step-by-step](https://shinutoki.itch.io/step-by-step) |
 | Thwump                |                | [https://juicebox-studio.itch.io/thwump](https://juicebox-studio.itch.io/thwump) |
 | SOKOPLAN              |                | [https://joshperry.itch.io/sokoplan](https://joshperry.itch.io/sokoplan) |
+| love jam 2025 entry   |                | [https://fuzzcat927.itch.io/love-jam-2025-entry](https://fuzzcat927.itch.io/love-jam-2025-entry) |
 | Low Entropy Drums     |                | [https://xanthia.itch.io/ledrums](https://xanthia.itch.io/ledrums) |
 | Scoreless Music Piano |                | [https://xanthia.itch.io/scoreless-music-piano-for-r36s](https://xanthia.itch.io/scoreless-music-piano-for-r36s) |
