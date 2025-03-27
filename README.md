@@ -16,7 +16,7 @@ If a modified gptk file is required, it will be indicated in the table. Download
 | HOMEdRUNk             |                | [https://mfg38.itch.io/homedrunk](https://mfg38.itch.io/homedrunk) |
 | Highway Pursuit       |                | [https://jwillc.itch.io/highway-pursuit](https://jwillc.itch.io/highway-pursuit) |
 | Monkey Business       |                | [https://tchimes.itch.io/monkey-business](https://tchimes.itch.io/monkey-business) |
-| According To Plan     | yes            | [https://deadpoolisalive.itch.io/according-to-plan](https://deadpoolisalive.itch.io/according-to-plan) |
+| According To Plan     | [yes](https://github.com/xanthiacoder/love2d-on-r36s/blob/main/controls/ATP.gptk) | [https://deadpoolisalive.itch.io/according-to-plan](https://deadpoolisalive.itch.io/according-to-plan) |
 | love jam 2025 entry   |                | [https://fuzzcat927.itch.io/love-jam-2025-entry](https://fuzzcat927.itch.io/love-jam-2025-entry) |
 | Low Entropy Drums     |                | [https://xanthia.itch.io/ledrums](https://xanthia.itch.io/ledrums) |
 | Scoreless Music Piano |                | [https://xanthia.itch.io/scoreless-music-piano-for-r36s](https://xanthia.itch.io/scoreless-music-piano-for-r36s) |
