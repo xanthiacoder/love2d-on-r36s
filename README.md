@@ -6,6 +6,7 @@ If a modified gptk file is required, it will be indicated in the table. Download
 
 | Name                  | Need gptk file | Site |
 | :-------------------- | :------------: | :--- |
+| Pulse Rush            |                | [https://www.tyranight.fr/download/game/pulserush.love](https://www.tyranight.fr/download/game/pulserush.love) |
 | Dungeon Escape        |                | [https://brooklyn-dev.itch.io/dungeon-escape](https://brooklyn-dev.itch.io/dungeon-escape) |
 | Sokoman!              |                | [https://jaime-mesa-dev.itch.io/sokoman](https://jaime-mesa-dev.itch.io/sokoman) |
 | Plinkanoid            |                | [https://jamjuneru.itch.io/plinkanoid](https://jamjuneru.itch.io/plinkanoid) |
@@ -22,3 +23,10 @@ If a modified gptk file is required, it will be indicated in the table. Download
 | Scoreless Music Piano |                | [https://xanthia.itch.io/scoreless-music-piano-for-r36s](https://xanthia.itch.io/scoreless-music-piano-for-r36s) |
 
 Do report any issues you may have with any items in the list as things may change over time. Some titles may require retrieving the .love bundle from within an .exe or .app file.
+
+These are being tested:
+Hawkthorne - https://projecthawkthorne.com
+funkin-rewritten - https://github.com/htv04/funkin-rewritten
+
+More lists:
+https://www.reddit.com/r/love2d/comments/1ima1bo/open_source_love2d_games_and_libraries_for/
