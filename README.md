@@ -6,6 +6,7 @@ If a modified gptk file is required, it will be indicated in the table. Download
 
 | Name                  | Need gptk file | Site |
 | :-------------------- | :------------: | :--- |
+| Mari0 ae              |                | [https://github.com/alesan99/mari0_ae](https://github.com/alesan99/mari0_ae) |
 | Pulse Rush            |                | [https://www.tyranight.fr/download/game/pulserush.love](https://www.tyranight.fr/download/game/pulserush.love) |
 | Dungeon Escape        |                | [https://brooklyn-dev.itch.io/dungeon-escape](https://brooklyn-dev.itch.io/dungeon-escape) |
 | Sokoman!              |                | [https://jaime-mesa-dev.itch.io/sokoman](https://jaime-mesa-dev.itch.io/sokoman) |
@@ -27,6 +28,7 @@ Do report any issues you may have with any items in the list as things may chang
 These are being tested:
 Hawkthorne - https://projecthawkthorne.com
 funkin-rewritten - https://github.com/htv04/funkin-rewritten
+Mari0 ae - https://github.com/alesan99/mari0_ae
 
 More lists:
 https://www.reddit.com/r/love2d/comments/1ima1bo/open_source_love2d_games_and_libraries_for/
