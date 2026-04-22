@@ -1,5 +1,8 @@
 # love2d-on-r36s
 
+Here is a repo of utilities
+: https://github.com/joelschutz/hhutil
+
 Here is a list of love2d games and apps that work on the R36S. Simply download the .love bundle and put it in the love2d folder. Some are playable even though some parts are cut off on the screen.
 
 If a modified gptk file is required, it will be indicated in the table. Download and replace the default one in the 'controls' folder (found in the love2d folder).
